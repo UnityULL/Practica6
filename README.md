@@ -1,8 +1,6 @@
 
 # **Practica 6: Utilizando DialogFlow en Unity**
 
-![](unity.gif)
-
 * **Autores:**
   - Abel Delgado Falcón: alu0100792218@ull.edu.es
   - Norberto García Gaspar: alu0100611519@ull.edu.es
@@ -19,4 +17,5 @@
     * **Lugar:** responde a preguntas de ubicación y en Unity hace referencia a las cápsulas que vibran.
     * **Explicacion:** responde a preguntas del tipo "¿qué es esto?" y en Unity hace referencia a un efecto flash sobre la pantalla de juego.
 
-![](Images/scene.png)
+![](unity.gif)
+
